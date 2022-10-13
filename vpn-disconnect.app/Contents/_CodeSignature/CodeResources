@@ -4,13 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Resources/Scripts/main.rtf</key>
-		<data>
-		k1IDXYjUtwF4TipTblCD2bAvuuE=
-		</data>
 		<key>Resources/Scripts/main.scpt</key>
 		<data>
-		uc6XyLxCQExrv+EEIGjzg0YP+hs=
+		B5d3lnYccyE43OR4Ai83QJAtsWQ=
 		</data>
 		<key>Resources/applet.icns</key>
 		<data>
@@ -27,26 +23,15 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Resources/Scripts/main.rtf</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			k1IDXYjUtwF4TipTblCD2bAvuuE=
-			</data>
-			<key>hash2</key>
-			<data>
-			uqcSQc5TL1irqjgjtc+/CRE/UMQj/xrd8nsEcMGJEcQ=
-			</data>
-		</dict>
 		<key>Resources/Scripts/main.scpt</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			uc6XyLxCQExrv+EEIGjzg0YP+hs=
+			B5d3lnYccyE43OR4Ai83QJAtsWQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			+w6VZ0ndz26pQS10r9ya6G8K0sIuzzzXWeEdP/4Pfdo=
+			/233U9Ep6FA9tumJSSuSGQx5QzXinFYRXPjbpdNX1C0=
 			</data>
 		</dict>
 		<key>Resources/applet.icns</key>
