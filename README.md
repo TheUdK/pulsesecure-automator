@@ -1,6 +1,6 @@
 # VPN automator
 
-The apps need to be added and enabled to System Settings > Security & Privacy > Accessability
+The apps need to be added and enabled in System Settings > Security & Privacy > Accessability
 
 ## Exanmple aliases
 

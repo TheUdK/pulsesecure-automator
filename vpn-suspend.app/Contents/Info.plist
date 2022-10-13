@@ -22,6 +22,10 @@
 	<string>1.0</string>
 	<key>CFBundleSignature</key>
 	<string>aplt</string>
+	<key>LNSShowStartupScreen</key>
+	<false/>
+	<key>LNSStayOpen</key>
+	<false/>
 	<key>LSMinimumSystemVersionByArchitecture</key>
 	<dict>
 		<key>x86_64</key>
@@ -41,6 +45,8 @@
 	<string>This script needs access to your contacts to run.</string>
 	<key>NSHomeKitUsageDescription</key>
 	<string>This script needs access to your HomeKit Home to run.</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2022 , All Rights Reserved</string>
 	<key>NSMicrophoneUsageDescription</key>
 	<string>This script needs access to your microphone to run.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
@@ -52,6 +58,8 @@
 	<key>NSSystemAdministrationUsageDescription</key>
 	<string>This script needs access to administer this system to run.</string>
 	<key>OSAAppletShowStartupScreen</key>
+	<false/>
+	<key>OSAAppletStayOpen</key>
 	<false/>
 	<key>WindowState</key>
 	<dict>
@@ -66,7 +74,7 @@
 		<key>name</key>
 		<string>ScriptWindowState</string>
 		<key>positionOfDivider</key>
-		<real>323</real>
+		<real>299</real>
 		<key>savedFrame</key>
 		<string>165 837 700 678 0 0 3008 1667 </string>
 		<key>selectedTab</key>
